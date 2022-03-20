@@ -1,2 +1,2 @@
-# Machine-Learning-algorithms-simple_lin_reg
+# Machine-Learning-algorithms
 This repo will include some machine learning algorithms Using Python 
